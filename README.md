@@ -1,1 +1,1 @@
-# california-housing-prices
+# California-housing-prices
